@@ -13,7 +13,7 @@ l بوت تلغرام خاص بالتعبئة الإحتياطية لإتصال�
 
 ## How To Run The Project
 
-1. Clone the repo: `git clone https://github.com/hax18/IdoomlyRechargeBot.git`
+1. Clone the repo: `git clone https://github.com/itsSamBz/IdoomlyRechargeBot.git`
 2. Open the project in any IDE
 3. Create a Telegram Bot in `BotFather` and get the Token
 4. Replace `YOUR_BOT_TOKEN` with the one you get from `BotFather`
