@@ -11,7 +11,7 @@ l بوت تلغرام خاص بالتعبئة الإحتياطية لإتصال�
 5. dotenv
 
 
-## How To Run The Project
+## How To Deploy
 
 1. Clone the repo: `git clone https://github.com/itsSamBz/IdoomlyRechargeBot.git`
 2. Open the project in any IDE
